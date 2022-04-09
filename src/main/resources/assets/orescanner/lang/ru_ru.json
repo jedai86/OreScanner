@@ -1,0 +1,17 @@
+{
+    "item.orescanner.ore_scanner": "Сканер руд",
+    "itemGroup.orescanner.orescannertab": "Сканер руд",
+    "item.orescanner.scanner.no_valuables": "§4Ничего не найдено!",
+    "item.orescanner.scanner.found": "§eНайдено:",
+    "item.orescanner.scanner.tooltip_radius": "Радиус: ",
+    "item.orescanner.scanner.radius": "Радиус изменен на: ",
+    "item.orescanner.scanner.no_energy": "§4Недостаточно энергии!",
+    "item.orescanner.scanner.selected_ore": "Буду искать только  ",
+    "item.orescanner.scanner.clear_ore": "Буду искать все руды",
+    "item.orescanner.scanner.tooltip_shift": "Нажмите §eSHIFT§r для информации",
+    "item.orescanner.scanner.tooltip_ore": "Ищет только ",
+    "item.orescanner.scanner.tooltip1": "Правый клик по блоку для сканирования руды",
+    "item.orescanner.scanner.tooltip2": "Ctrl-Правый клик для смены радиуса",
+    "item.orescanner.scanner.tooltip3": "Shift-Правый клик по блоку руды чтобы искать только ее,",
+    "item.orescanner.scanner.tooltip4": "Shift-Правый клик в воздухе чтобы очистить сохраненный блок"
+}

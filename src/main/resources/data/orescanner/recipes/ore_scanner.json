@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " D ",
+    "PTP",
+    " A "
+  ],
+  "key": {
+    "D": {
+      "item": "techreborn:digital_display"
+    },
+    "T": {
+      "item": "techreborn:frequency_transmitter"
+    },
+    "P": {
+      "tag": "c:steel_plates"
+    },
+    "A": {
+      "item": "techreborn:red_cell_battery"
+    }
+  },
+  "result": {
+    "item": "orescanner:ore_scanner"
+  }
+}

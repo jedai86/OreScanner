@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "orescanner",
+  "version": "${version}",
+
+  "name": "Ore scanner",
+  "description": "Ore scanner to find ores",
+  "authors": [
+    "Jedai86"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/jedai86/"
+  },
+
+  "license": "MIT",
+  "icon": "assets/orescanner/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.jedai.orescanner.OreScanner"
+    ]
+  },
+  "mixins": [
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.12.12",
+    "fabric": "*",
+    "minecraft": "1.18.x",
+    "autoconfig1u": "*",
+    "techreborn": "*",
+    "java": ">=17"
+  }
+}

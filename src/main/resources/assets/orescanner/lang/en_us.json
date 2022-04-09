@@ -1,0 +1,17 @@
+{
+    "item.orescanner.ore_scanner": "Ore scanner",
+    "itemGroup.orescanner.orescannertab": "Ore scanner",
+    "item.orescanner.scanner.no_valuables": "§4No ore found!",
+    "item.orescanner.scanner.found": "§eFound:",
+    "item.orescanner.scanner.tooltip_radius": "Radius: ",
+    "item.orescanner.scanner.radius": "Change radius to: ",
+    "item.orescanner.scanner.no_energy": "§4Not enough energy!",
+    "item.orescanner.scanner.selected_ore": "Will search only ",
+    "item.orescanner.scanner.clear_ore": "Will search all ores",
+    "item.orescanner.scanner.tooltip_shift": "Press §eSHIFT§r for more information",
+    "item.orescanner.scanner.tooltip_ore": "Find only ",
+    "item.orescanner.scanner.tooltip1": "Right-Click on block to scan ores",
+    "item.orescanner.scanner.tooltip2": "Ctrl-Right-Click to change radius",
+    "item.orescanner.scanner.tooltip3": "Shift-Right-Click ore block to set only this ore to find,",
+    "item.orescanner.scanner.tooltip4": "Shift-Right-Click in air to clear saved ore block"
+}
